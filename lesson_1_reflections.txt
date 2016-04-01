@@ -1,0 +1,3 @@
+Lots of text here  . . . lost other file.  Need file to test on, and here it is.
+
+Not to self: If you remove a file frome the staging area by using the command rm before committing, it will just be deleted.  Don't do that!
