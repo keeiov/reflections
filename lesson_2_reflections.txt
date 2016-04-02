@@ -6,3 +6,5 @@ I actually don't have a definition of a working directory.  I'm assuming that it
 How can you use the staging area to make sure you have one commit per logical change? You can stage everything at once, but commit each of those in a logical way, one by one.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help? Branches would allow you to go off in a different direction without affecting the main work.
+
+How do the diagrams help you visualize the branch structure? It allows you to show and see the relationships between branches and their lineage.
