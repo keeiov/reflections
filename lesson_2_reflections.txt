@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 Initializing a repository is just starting an empty git file where your file history and commits will be saved.  You need to do it to track changes in your files.
 
 I actually don't have a definition of a working directory.  I'm assuming that it is the local file on my computer that I am trying to put into a git repository.  The staging area is the temporary space between the working directory and the repository.I don't fully understand the staging area though because I ended up deleting a file by trying to remove it from that space before it was commited.  That seems like it should not be possible, and is a serious vulnerability in my view.
+
+How can you use the staging area to make sure you have one commit per logical change? You can stage everything at once, but commit each of those in a logical way, one by one.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help? Branches would allow you to go off in a different direction without affecting the main work.
